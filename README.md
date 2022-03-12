@@ -16,9 +16,9 @@
 
 ### DS and Algos - 1 month for rivision
 
-- Data Structures
+ * [ ] Data Structures
 
-    <input type="checkbox" checked> Linked Lists
+    <input type="checkbox" > Linked Lists
 
     <input type="checkbox"> Stacks, Queues
 
