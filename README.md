@@ -31,7 +31,7 @@
     * [ ] Search Trees
     
     * [ ] Graphs
-
+[]
     * [ ] Memory management and B-Trees  
   
 <br/>
@@ -52,7 +52,7 @@
 
 <br/>
 
-### Higher Mathematics
+[### Higher Mathematics](https://github.com/ashirwadsangwan/Handbook-of-DS-Learning/tree/main/Higher%20Mathematics)
 
 * [ ] Linear Algebra
     
