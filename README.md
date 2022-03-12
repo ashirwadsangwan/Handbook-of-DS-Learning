@@ -18,7 +18,7 @@
 
 - Data Structures
 
-    <input type="checkbox"> Linked Lists
+    <input type="checkbox" checked> Linked Lists
 
     <input type="checkbox"> Stacks, Queues
 
