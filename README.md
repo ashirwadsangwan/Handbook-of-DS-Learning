@@ -18,41 +18,41 @@
 
  * [ ] Data Structures
 
-    <input type="checkbox" > Linked Lists
+    * [ ] Linked Lists
 
-    <input type="checkbox"> Stacks, Queues
+    * [ ] Stacks, Queues
 
-    <input type="checkbox"> Trees
+    * [ ] Trees
 
-    <input type="checkbox"> Priority Queues
+    * [ ] Priority Queues
 
-    <input type="checkbox"> Maps, Hash Tables
+    * [ ] Maps, Hash Tables
 
-    <input type="checkbox"> Search Trees
+    * [ ] Search Trees
     
-    <input type="checkbox"> Graphs
+    * [ ] Graphs
 
-    <input type="checkbox"> Memory management and B-Trees  
+    * [ ] Memory management and B-Trees  
   
 <br/>
 
 - Algorithms
 
-    <input type="checkbox"> Search Algorithms
+    * [ ] Search Algorithms
 
-    <input type="checkbox"> Sorting and Selection
+    * [ ] Sorting and Selection
 
-    <input type="checkbox"> Greedy Algorithms
+    * [ ] Greedy Algorithms
 
-    <input type="checkbox"> Divide and Conquer
+    * [ ] Divide and Conquer
 
-    <input type="checkbox"> Dynamic Programming
+    * [ ] Dynamic Programming
 
-    <input type="checkbox"> Graph Algorithms
+    * [ ] Graph Algorithms
 
 <br/>
 
 ### Higher Mathematics
 
-<input type="checkbox"> Linear Algebra
+* [ ] Linear Algebra
     
