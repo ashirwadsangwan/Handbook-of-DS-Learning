@@ -16,43 +16,43 @@
 
 ### DS and Algos - 1 month for rivision
 
- * [] Data Structures
+ * [ ] Data Structures
 
-    * [] Linked Lists
+    * [ ] Linked Lists
 
-    * [] Stacks, Queues
+    * [ ] Stacks, Queues
 
-    * [] Trees
+    * [ ] Trees
 
-    * [] Priority Queues
+    * [ ] Priority Queues
 
-    * [] Maps, Hash Tables
+    * [ ] Maps, Hash Tables
 
-    * [] Search Trees
+    * [ ] Search Trees
     
-    * [] Graphs
+    * [ ] Graphs
 
-    * [] Memory management and B-Trees  
+    * [ ] Memory management and B-Trees  
   
 <br/>
 
-* [] Algorithms
+* [ ] Algorithms
 
-    * [] Search Algorithms
+    * [ ] Search Algorithms
 
-    * [] Sorting and Selection
+    * [ ] Sorting and Selection
 
-    * [] Greedy Algorithms
+    * [ ] Greedy Algorithms
 
-    * [] Divide and Conquer
+    * [ ] Divide and Conquer
 
-    * [] Dynamic Programming
+    * [ ] Dynamic Programming
 
-    * [] Graph Algorithms
+    * [ ] Graph Algorithms
 
 <br/>
 
 ### Higher Mathematics
 
-* [] Linear Algebra
+* [ ] Linear Algebra
     
