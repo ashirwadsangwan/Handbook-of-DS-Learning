@@ -13,11 +13,10 @@
 <br/>
 
 ## Detail 
-<br/>
 
 ### DS and Algos - 1 month for rivision
 - Data Structures
-    1. Linked Lists
+    - [] Linked Lists
     2. Stacks, Queues
     3. Trees
     4. Priority Queues
