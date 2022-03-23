@@ -1,0 +1,1 @@
+- [Data Structures and Algorithms in Python](http://xpzhang.me/teach/DS19_Fall/book.pdf)
