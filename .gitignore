@@ -7,6 +7,8 @@ __pycache__/
 *.so
 example.py
 # Distribution / packaging
+.vscode
+.pytest_cache
 .Python
 build/
 develop-eggs/
