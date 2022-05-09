@@ -27,7 +27,6 @@ def binary_search_helper(array, left, right, target):
         return binary_search_helper(array, left, mid - 1, target)
 
 
-
 # Time: O(logn), Space: O(1)
 def binarySearch(array, target):
     # Write your code here.
@@ -41,7 +40,6 @@ def binarySearch(array, target):
 def binary_search_helper(array, left, right, target):
 
     while left <= right:
-        
 
         mid = (left + right) // 2
 
@@ -50,10 +48,9 @@ def binary_search_helper(array, left, right, target):
 
         elif array[mid] < target:
             # number is somewhere between mid and end of the array
-            left = mid+1
+            left = mid + 1
 
         elif array[mid] > target:
             # number lies in the first half of the list
-            right = mid-1
+            right = mid - 1
     return -1
-
