@@ -35,6 +35,9 @@ def num_bedroom_bugfix(json_data):
         elif '1-bedroom' in desc:
             if df.num_bedrooms[j]!=1:
                 df['num_bedrooms'][j]=0
+        
+        else:
+            pass # when studio or one-bedroom not in the description
     return df
 
 
